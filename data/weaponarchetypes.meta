@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CWeaponModelInfo__InitDataList>
+  <InitDatas>
+  
+				<!-- Weapon Briefcase -->
+	
+	<Item>
+		<modelName>W_AM_WeaponCaseM51</modelName>
+		<txdName>W_AM_WeaponCaseM51</txdName>
+		<ptfxAssetName>null</ptfxAssetName>
+		<lodDist value="50"/>
+	</Item>
+	
+  </InitDatas>
+</CWeaponModelInfo__InitDataList>
